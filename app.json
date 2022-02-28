@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "gdplace-app",
+    "slug": "gdplace-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
